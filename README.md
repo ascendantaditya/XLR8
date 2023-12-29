@@ -1,12 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/XLR8/XLR8)
-  ![GitHub stars](https://img.shields.io/github/stars/XLR8/XLR8?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/XLR8/XLR8?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/XLR8_?style=social)](https://twitter.com/intent/follow?screen_name=XLR8_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/dZV-y3GzBlg?style=social)](https://youtu.be/dZV-y3GzBlg)
 
-  <br />
   <br />
 
   <h2 align="center">XLR8 - eCommerce Website</h2>
